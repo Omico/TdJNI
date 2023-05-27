@@ -1,6 +1,6 @@
 [requires]
 gperf/3.1
-openssl/3.0.8
+openssl/3.1.0
 zlib/1.2.13
 
 [generators]
